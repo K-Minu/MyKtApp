@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ch6_View</string>
+    <string name="main_desc">
+        To protect your valuable information, please check ReWhite\'s current password.
+    </string>
+    <string name="password_txt">Don\'t you remember the password?</string>
+
+</resources>
