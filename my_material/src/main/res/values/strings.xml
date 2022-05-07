@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">my_material</string>
+    <string name="drawer_opened" tools:ignore="ExtraTranslation">Opened Drawer</string>
+    <string name="drawer_closed" tools:ignore="ExtraTranslation">Closed Drawer</string>
+</resources>
