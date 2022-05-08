@@ -11,10 +11,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/batteryinfo_app" />
             <option value="$PROJECT_DIR$/ch10_notification" />
             <option value="$PROJECT_DIR$/ch6_view" />
             <option value="$PROJECT_DIR$/my_material" />
             <option value="$PROJECT_DIR$/mypager" />
+            <option value="$PROJECT_DIR$/myplayer" />
+            <option value="$PROJECT_DIR$/myplayerservice" />
+            <option value="$PROJECT_DIR$/schedule_app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
