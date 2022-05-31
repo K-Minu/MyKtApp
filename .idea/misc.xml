@@ -17,6 +17,22 @@
         <entry key="../../Library/Android/sdk/platforms/android-31/data/res/drawable/btn_default.xml" value="0.27239583333333334" />
         <entry key="../../Library/Android/sdk/platforms/android-31/data/res/drawable/btn_plus.xml" value="0.27239583333333334" />
         <entry key="../../Library/Android/sdk/platforms/android-31/data/res/drawable/btn_star.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/layout/fragment_blank.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1805" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/xml/path.xml" value="0.253125" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/xml/prefer.xml" value="0.1578125" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/xml/prefer_one.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/app/src/main/res/xml/prefer_two.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/layout/activity_add.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/layout/activity_main.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/layout/activity_setting.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/layout/item_recyclerview.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/menu/menu_add.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/menu/menu_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/ch17_database/src/main/res/xml/settings.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/my_material/src/main/res/layout/fragment_three.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Minu/AndroidStudioProjects/MyApplication/MyKtApp/my_material/src/main/res/layout/fragment_two.xml" value="0.10989583333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="batteryinfo_app/src/main/res/layout/activity_main.xml" value="0.20018115942028986" />
         <entry key="ch10_notification/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />

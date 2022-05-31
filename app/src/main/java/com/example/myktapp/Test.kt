@@ -1,5 +1,7 @@
 package com.example.myktapp
 
+import android.database.sqlite.SQLiteDatabase.openOrCreateDatabase
+
 val data1: Int by lazy {
     println("asdasd")
     20

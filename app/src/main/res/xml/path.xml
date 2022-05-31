@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="myfiles"
+        path="Android/data/com.example.myktapp/files/Pictures"/>
+</paths>
+<!--path 속성에 지정한 디렉터리를 공개하겠다고 선언 했기 때문에 매니페스트 provider 태그로 등록 이때 앞에서 만든 xml 파일을
+ <meta-data> 태그의 resource 속성에 명시 -->

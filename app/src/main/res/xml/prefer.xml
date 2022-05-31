@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        app:key="a"
+        app:title="A Setting"
+        app:summary="A Setting summary"
+        app:fragment="com.example.myktapp.AFragment"/>
+    <Preference
+        app:key="b"
+        app:title="B Setting"
+        app:summary="B Setting summary"
+        app:fragment="com.example.myktapp.BFragment"/>
+</PreferenceScreen>
